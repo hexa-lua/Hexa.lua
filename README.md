@@ -1,6 +1,7 @@
 # Hexa.lua
 
 ## Supported Game :
+- Maybe have bug or something on any script i've been upload
 ```diff
-+ Test
++ Southbronx | Tap me
 ```
