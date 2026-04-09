@@ -5,5 +5,5 @@
 # Supported Game :
 - Maybe have bug or something on any script i've been upload
 
-## [Southbronx](https://github.com/hexa-lua/Hexa.lua/tree/main/HexaStorage/South%20Bronx)
-## [Komdak SPN Polda Sumsel](https://github.com/hexa-lua/Hexa.lua/tree/main/HexaStorage/Komdak-SPN%20POLDA%20SUMSEL)
+### [Southbronx](https://github.com/hexa-lua/Hexa.lua/tree/main/HexaStorage/South%20Bronx)
+### [Komdak SPN Polda Sumsel](https://github.com/hexa-lua/Hexa.lua/tree/main/HexaStorage/Komdak-SPN%20POLDA%20SUMSEL)
