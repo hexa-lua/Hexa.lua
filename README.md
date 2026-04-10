@@ -10,3 +10,4 @@
 ### [Akpol Polri RI](https://github.com/hexa-lua/Hexa.lua/tree/main/HexaStorage/Akpol%20Polri%20RI) | COLLABORATION WITH HEXYRA
 ### [Empire Class](https://github.com/hexa-lua/Hexa.lua/tree/main/HexaStorage/Empire%20Class)
 ### [IPS](https://github.com/hexa-lua/Hexa.lua/tree/main/HexaStorage/IPS)
+### [EFAR](https://github.com/hexa-lua/Hexa.lua/tree/main/HexaStorage/EFAR)
